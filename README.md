@@ -1,6 +1,12 @@
-# BMS-bank-
-This is my college project made by me using CODEBLOCK IDE.
-with working MYSQL DATABASE connection.
-bank.sql is database file should be imported in MYSQL DATABASE.
------------------
+# Bank-Management-System
+
+# C++ Based Project developed using CODEBLOCK IDE With Working Mysql Database
+
+Before excuting Code Import mysql header files in CODEBLOCK IDE
+
+import MYSQL DATABASE file.
+
+        Bank.sql
+        
 CODEBLOCK must have mysql.h file or mysql database header files in order to run this project
+
