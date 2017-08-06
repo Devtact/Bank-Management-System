@@ -10,3 +10,8 @@ import MYSQL DATABASE file.
         
 CODEBLOCK must have mysql.h file or mysql database header files in order to run this project
 
+# This Project Can be Used By All BscIT, BscCS, Mca, Msc Students
+
+For Black Book You can Contact me 
+                
+                mvishwakarma43@gmail.com
